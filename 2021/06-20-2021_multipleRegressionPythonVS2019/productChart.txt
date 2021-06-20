@@ -1,0 +1,27 @@
+Age
+Gender 
+	0 = Female 
+	1 = Male
+Season 
+	0 = Winter 
+	1 = Spring 
+	2 = Summer 
+	3 = Fall
+Parent
+	0 = No
+	1 = Yes
+Education
+	0 = HS Dropout
+	1 = HS Diploma/GED
+	2 = Certification
+	3 = Associate
+	4 = Bachelor
+	5 = Master
+	6 = Doctor
+Salary 
+	0 = Poor < $30,000
+	1 = Average $30,000-$60,000
+	2 = Wealthy > $60,000
+Product Bought
+ 	0 = No
+ 	1 = Yes
